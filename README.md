@@ -128,20 +128,7 @@ Status   : Open to Internships & Collaborations
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=kanhaiya-gupta&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00C8FF&text_color=a9b1d6&icon_color=00ff88" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanhaiya-gupta&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00C8FF&text_color=a9b1d6" />
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=kanhaiya-gupta&theme=tokyonight&hide_border=true&background=1a1b27&stroke=00C8FF&ring=00C8FF&fire=00ff88&currStreakLabel=00C8FF" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=kanhaiya-gupta&theme=tokyonight&no-frame=true&column=6&margin-w=4" />
-
-</div>
-
----
 
 ## 🤝 Connect With Me
 
